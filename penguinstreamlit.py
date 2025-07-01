@@ -1,9 +1,4 @@
 
-"""Penguinstreamlit.ipynb
-
-
-
-
 
 pip install streamlit
 
